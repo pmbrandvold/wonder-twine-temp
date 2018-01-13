@@ -1,0 +1,36 @@
+.main {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+#logo {
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+
+html p a {
+  text-decoration: underline;
+  color: #D0E7C7;
+}
+
+img {
+  max-width: inherit;
+}
+
+html {
+  background-color: #23282D;
+  color: #898989;
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+  text-shadow: .2px .5px white;
+}
+
+p {
+  font-size: 24px;
+  text-shadow: .2px .5px white;
+}
