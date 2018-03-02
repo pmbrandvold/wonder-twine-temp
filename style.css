@@ -20,7 +20,7 @@
   display:none;
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-device-width: 500px) {
     #main {
       display: none;
     }
